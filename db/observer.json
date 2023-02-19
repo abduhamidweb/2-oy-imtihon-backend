@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "GET",
+        "event": "Hamma Productlar berildi."
+    },
+    {
+        "id": 2,
+        "name": "GET",
+        "event": "1ID bo'yicha productlar olindi."
+    },
+    {
+        "id": 3,
+        "name": "GET",
+        "event": "1 selected by id."
+    },
+    {
+        "id": 4,
+        "name": "GET",
+        "event": "3ID bo'yicha productlar olindi."
+    },
+    {
+        "id": 5,
+        "name": "GET",
+        "event": "5ID bo'yicha productlar olindi."
+    },
+    {
+        "id": 6,
+        "name": "GET",
+        "event": "8ID bo'yicha productlar olindi."
+    },
+    {
+        "id": 7,
+        "name": "GET",
+        "event": "8 selected by id."
+    },
+    {
+        "id": 8,
+        "name": "POST",
+        "event": " Malumot qo'shildi shekilli xato qilgan bo'lsangiz qo'shilmagan bo'lishi ham mumkun."
+    }
+]

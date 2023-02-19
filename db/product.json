@@ -1,0 +1,114 @@
+[
+    {
+        "name": "test smo ne o'zgardimmmmm 23",
+        "category": "smartfon",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "smartfon",
+        "id": 1
+    },
+    {
+        "name": "test smo ne o'zgardimmmmm 23",
+        "category": "noutbuk",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "",
+        "id": 4
+    },
+    {
+        "name": "test smartphone 333",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "Lorem xon",
+        "category": "smartfon",
+        "id": 6
+    },
+    {
+        "name": "test smartphone 333",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "Lorem xon",
+        "category": "smartfon",
+        "id": 7
+    },
+    {
+        "name": "test smartphone 333",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "Lorem xon",
+        "category": "holodilnik",
+        "id": 8
+    },
+    {
+        "name": "test smartphone 333",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "Lorem xon",
+        "category": "noutbuk",
+        "id": 9
+    },
+    {
+        "name": "test smo    ne",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "kjbLorn",
+        "category": "jjiodsoj",
+        "id": 13
+    },
+    {
+        "name": "test smo ne o'zgardimmmmm",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "kjbLorn",
+        "category": "jjiodsoj",
+        "id": 15
+    },
+    {
+        "name": "test smo ne o'zgardimmmmm 14",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "kjbLorn",
+        "category": "noutbuk",
+        "id": 16
+    },
+    {
+        "name": "test smo ne o'zgardimmmmm 14",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "kjbLorn",
+        "category": "noutbuk",
+        "id": 17
+    },
+    {
+        "name": "test smo ne o'zgardimmmmm 19",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "kjbLorn",
+        "category": "noutbuk",
+        "id": 19
+    },
+    {
+        "name": "test smo ne o'zgardimmmmm 19",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "kjbLorn",
+        "category": "smartfon",
+        "id": 21
+    },
+    {
+        "name": "test smo ne o'zgardimmmmm 22",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "kjbLorn",
+        "category": "noutbuk",
+        "id": 22
+    },
+    {
+        "name": "test smo ne o'zgardimmmmm 23",
+        "imagelink": "http://example.com/images/test.jpg",
+        "price": 123,
+        "description": "kjbLorn",
+        "category": "noutbuk",
+        "id": 23
+    }
+]

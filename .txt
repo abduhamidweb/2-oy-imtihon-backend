@@ -1,0 +1,76 @@
+texnomart
+    categories 
+            GET
+                http://localhost:5000/categories    
+                                                smartfon  
+                                                holodilnik
+                                                noutbuk
+                http://localhost:5000/category/:id        
+                                                noutbuk
+                                                  
+            POST 
+                http://localhost:5000/categories
+                            name                    added | not 
+
+            PUT 
+                http://localhost:5000/category/3
+                            name                    updated | not 
+
+            DELETE
+                http://localhost:5000/category/3
+                                                    deleted | not 
+
+    products
+            GET
+                http://localhost:5000/smartfon    smartfonlar     
+                http://localhost:5000/holodilnik    holodilniklar
+                http://localhost:5000/noutbuk       noutbuklar
+                                                
+                                                            id
+                                                            name
+                                                            imagelink
+                                                            price
+                                                            description
+
+                http://localhost:5000/product/10          10 - product
+                                                            name
+                                                            imagelink
+                                                            price
+                                                            description
+        
+            POST             name image category price description     added || not 
+                
+            PUT       
+                http://localhost:5000/product/10          10 - product
+                
+                                    name|null,  
+                                    image|null, 
+                                    category|null, 
+                                    price|null, 
+                                    description|null, 
+                                                        10 -  updated || not     
+                
+            DELETE       
+                
+                http://localhost:5000/product/10          10 - product                      10 - deleted  || not
+
+
+
+    events                o'zgarishlarni yozib boruvchi fileingiz bo'lib har bir harakatni yozib borsin
+                
+                masalan : [
+                    {
+                        id:1,
+                        method: "POST",
+                        event: "product added"
+                    },
+                    {
+                        id:2,
+                        method: "DELETE",
+                        event: "3 - category deleted"
+                    }
+                ]
+
+
+
+                
